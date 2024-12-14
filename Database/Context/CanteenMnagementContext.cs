@@ -8,5 +8,6 @@ namespace Database.Context
 {
     internal class CanteenMnagementContext
     {
+        //hi
     }
 }
